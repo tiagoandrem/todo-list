@@ -1,5 +1,13 @@
-academy\learnprogramming\controller\DemoController.class
+academy\learnprogramming\controller\TodoItemController.class
 academy\learnprogramming\services\DemoServiceImpl.class
 academy\learnprogramming\config\WebConfig.class
+academy\learnprogramming\controller\DemoController.class
 academy\learnprogramming\services\DemoService.class
+academy\learnprogramming\model\TodoItem.class
+academy\learnprogramming\model\TodoData.class
 academy\learnprogramming\config\WebAppInitializer.class
+academy\learnprogramming\services\TodoItemService.class
+academy\learnprogramming\services\TodoItemServiceImpl.class
+academy\learnprogramming\util\Mappings.class
+academy\learnprogramming\util\AttributeNames.class
+academy\learnprogramming\util\ViewNames.class

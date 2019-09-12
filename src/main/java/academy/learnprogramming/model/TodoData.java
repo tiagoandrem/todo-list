@@ -21,6 +21,7 @@ public class TodoData {
         addItem(new TodoItem("First", "First Item", LocalDate.now()));
         addItem(new TodoItem("Second", "Second Item", LocalDate.now()));
         addItem(new TodoItem("Third", "Third Item", LocalDate.now()));
+        addItem(new TodoItem("Fourth", "Fourth Item", LocalDate.now()));
 
     }
     // == public methods ==
