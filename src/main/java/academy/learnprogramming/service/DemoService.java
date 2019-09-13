@@ -1,4 +1,4 @@
-package academy.learnprogramming.services;
+package academy.learnprogramming.service;
 
 public interface DemoService {
 
